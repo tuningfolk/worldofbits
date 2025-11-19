@@ -21,6 +21,6 @@ npx vite
 ```
 
 ## Controls
-Move around: WASD Keys
-Turn: Arrow Keys
-Add block: 'J' Key
+Move around: WASD Keys 
+Turn: Arrow Keys 
+Add block: 'J' Key 
