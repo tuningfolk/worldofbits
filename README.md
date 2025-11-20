@@ -1,6 +1,30 @@
 # worldofbits
 A world where you can build
 
+## Controls
+Move around: WASD Keys  
+Turn: Arrow Keys  
+Add block: 'J' Key  
+
+
+## Functionalities
+- [x] move around
+- [ ] blocks
+    - [x] add blocks
+    - [ ] remove blocks
+    - [ ] logic flow blocks
+- [ ] logic gates
+    - [ ] AND
+    - [ ] OR
+    - [ ] NOT
+    - [ ] XOR
+    - [ ] XNOR
+    - [ ] NAND
+    - [ ] NOR
+- [ ] Copy-Paste/Save chunks of a build as template 
+- [ ] save world to backend
+- [ ] multiplayer support
+
 ## Installation
 Clone the repository
 ```
@@ -19,8 +43,3 @@ yarn install
 ```
 npx vite
 ```
-
-## Controls
-Move around: WASD Keys  
-Turn: Arrow Keys  
-Add block: 'J' Key  
